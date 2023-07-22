@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Animation-app/static/css/main.5ecba520.css",
+    "main.js": "/Animation-app/static/js/main.e5440cb8.js",
+    "index.html": "/Animation-app/index.html",
+    "main.5ecba520.css.map": "/Animation-app/static/css/main.5ecba520.css.map",
+    "main.e5440cb8.js.map": "/Animation-app/static/js/main.e5440cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecba520.css",
+    "static/js/main.e5440cb8.js"
+  ]
+}
